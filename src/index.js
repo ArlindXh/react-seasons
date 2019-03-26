@@ -16,7 +16,7 @@ class App extends React.Component {
 
     }
 
-
+// testing tags in git
     // Gotta define render!
     render() {
         if (this.state.errorMessage && !this.state.lat) {
