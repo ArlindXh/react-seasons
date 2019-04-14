@@ -1,6 +1,6 @@
 {
   "name": "seasons",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
